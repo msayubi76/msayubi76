@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 7+ years building scalable web apps with Vue.js, Nuxt.js, Laravel & AWS<br>💼 Senior Frontend Dev at Digital Code Pvt Ltd (Blockchain)<br>🌍 Based in Islamabad, Pakistan<br>🔗 salahuddin.pk
+🚀 7+ years building scalable web apps with Vue.js, Nuxt.js, Laravel & AWS<br>💼 Senior Frontend Dev at Digital Code Pvt Ltd (Blockchain)<br>🌍 Based in Islamabad, Pakistan<br>🔗 [salahuddin.pk](https://salahuddin.pk)
 
 
 ## 🌐 Socials:
