@@ -7,7 +7,7 @@
 🚀 **6+ years** building scalable web applications across fintech, blockchain, hospitality, transport & e-government  
 💼 **Senior Frontend Dev & Web Team Lead** at Digital Code Pvt Ltd  
 🏗️ Currently building a **multi-tenant Transport SaaS** (Laravel 12 + Nuxt 4 + double-entry ledger)  
-🌍 Based in **Islamabad, Pakistan** · Open to remote & Gulf opportunities  
+🌍 Based in **Islamabad, Pakistan** · Open to remote & on-site opportunities in **Pakistan, Malaysia, Indonesia & Turkey**  
 🔗 Portfolio: [salahuddin.pk](https://salahuddin.pk) · 💼 [LinkedIn](https://linkedin.com/in/msayubi76)
 
 ---
