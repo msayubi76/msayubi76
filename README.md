@@ -69,7 +69,7 @@
 | Project | Stack | Link |
 |---|---|---|
 | 🔐 Confidential Crypto Exchange | Vue.js, AWS Lambda, DynamoDB, WebSocket | Private |
-| 🐾 LamaGogo — Pet Hospitality (US) | Laravel, Vue.js, Inertia.js, AWS | [View](https://salahuddin.pk/projects/) |
+| 🐾 LamaGogo — Pet Hospitality (US) | Laravel, Vue.js, Inertia.js, AWS | Private |
 | 🚌 Local Transport Owner SaaS | Laravel, Nuxt 4, MySQL, Tailwind CSS | In Progress |
 | 📦 Procurosis — B2B Procurement | Laravel, Vue.js, MySQL, AWS EC2 | [View](https://salahuddin.pk/projects/e-procurement) |
 | 🏛️ E-Bidding / E-Auction — KPK Gov | Laravel, PHP, jQuery | Private |
